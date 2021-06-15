@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+    
+- 🔭 I’m currently working on ... freelance
+- 🌱 I’m currently learning ... React,Laravel
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... EMail me
+- ⚡ Fun fact: ... I'm Shy
+  
+  
+  
+
 <!--
 **nahidpavelc/nahidpavelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
