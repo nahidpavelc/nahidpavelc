@@ -7,7 +7,10 @@
 ## I'm Nahid From Bangladesh. I'm a WEB Designer & Developer. I'm learning to be a full-stack Web Developer & really enjoy Learning. I love to learn new languages & frameworks, as well as Build Websites.
 
 - 🌱 I’m currently learning 
-[<img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='30'>]. React
+* <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='30'> React
+* <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='30'> React
+* <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='30'> React
+* <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='30'> React
 
 
 
