@@ -1,13 +1,12 @@
-
-### Hi there 👋
+<!-- cover Image -->
 ![I'm a WEB Designer & Developer.](https://i.ibb.co/QML41zm/Your-ptaragraph-tefxt-2.png)
+
+<!-- About me -->
 # Nahid Pavel
-## WEB Designer & Developer.
+### I'm Nahid From Bangladesh. I'm a WEB Designer & Developer. I'm learning to be a full-stack Web Developer & really enjoy Learning. I love to learn new languages & frameworks, as well as Build Websites.
 
-## I'm Nahid From Bangladesh. I'm a WEB Designer & Developer. I'm learning to be a full-stack Web Developer & really enjoy Learning. I love to learn new languages & frameworks, as well as Build Websites.
-
+<!-- Learning part -->
 ## <img src='https://cdn-icons-png.flaticon.com/512/2490/2490421.png' alt='github' height='25'> I’m currently learning 
-
 * ###  <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> ReactJS
 * ###  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'> NodeJS
 * ###  <img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'> ExpressJS
@@ -16,9 +15,9 @@
 
 
 
-* atom
-,NodeJS, ExpressJS, MongoDB 
 
+
+<!-- Social Icon Pe=art -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nahidpavelc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107//)  
 
 
