@@ -1,5 +1,5 @@
 <!-- cover Image -->
-![I'm a WEB Designer & Developer.](https://i.ibb.co/QML41zm/Your-ptaragraph-tefxt-2.png)
+![I'm a WEB Designer & Developer.](https://i.ibb.co/HTKNDMx/Your-ptaragrarph-text-3.png)
 
 <!-- About me -->
 # Nahid Pavel
