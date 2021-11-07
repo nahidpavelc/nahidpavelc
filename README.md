@@ -8,7 +8,7 @@
 
 # <img src='https://cdn-icons-png.flaticon.com/512/2490/2490421.png' alt='github' height='30'> I’m currently learning 
 ### * <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> React
-## * <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> React
+
 * <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> React
 * <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> React
 
