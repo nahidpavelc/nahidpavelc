@@ -1,6 +1,9 @@
-### Hi there 👋, Nahid Pavel
-#### I'm a WEB Designer & Developer.
+
+### Hi there 👋
 ![I'm a WEB Designer & Developer.](https://i.ibb.co/QML41zm/Your-ptaragraph-tefxt-2.png)
+#Nahid Pavel
+#### I'm a WEB Designer & Developer.
+
 
 About me
 I'm Nahid From Bangladesh. I really Enjoy Learning. I'm learning to be a full-stack Web Developer. I love to learn new languages & frameworks, as well as Build Websites.
