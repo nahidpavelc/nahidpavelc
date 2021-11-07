@@ -2,7 +2,7 @@
 ![I'm a WEB Designer & Developer.](https://i.ibb.co/HTKNDMx/Your-ptaragrarph-text-3.png)
 
 <!-- About me -->
-# Nahid Pavel
+# Nahid Pavel Chowdhury
 ### I'm Nahid From Bangladesh. I'm a WEB Designer & Developer. I'm learning to be a full-stack Web Developer & really enjoy Learning. I love to learn new languages & frameworks, as well as Build Websites.
 
 <!-- Learning part -->
