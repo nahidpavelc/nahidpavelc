@@ -8,10 +8,10 @@
 
 ## <img src='https://cdn-icons-png.flaticon.com/512/2490/2490421.png' alt='github' height='25'> I’m currently learning 
 
-### * <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> ReactJS
-### * <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'> NodeJS
-### * <img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'> ExpressJS
-### * <img src='https://img.icons8.com/color/2x/mongodb.png' alt='github' height='20'> MongoDB
+* ###  <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> ReactJS
+* ###  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'> NodeJS
+* ###  <img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'> ExpressJS
+* ###  <img src='https://img.icons8.com/color/2x/mongodb.png' alt='github' height='20'> MongoDB
 
 
 
