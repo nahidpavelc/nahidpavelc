@@ -4,12 +4,15 @@
 # Nahid Pavel
 ## WEB Designer & Developer.
 
-I'm Nahid From Bangladesh. I really Enjoy Learning. I'm learning to be a full-stack Web Developer. I love to learn new languages & frameworks, as well as Build Websites.
+## I'm Nahid From Bangladesh. I'm a WEB Designer & Developer. I'm learning to be a full-stack Web Developer & really enjoy Learning. I love to learn new languages & frameworks, as well as Build Websites.
 
-Skills: REACT / JS / HTML / CSS
+- 🌱 I’m currently learning 
+[<img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='30'>]. React
 
-- 🌱 I’m currently learning ReactJS,NodeJS, ExpressJS, MongoDB 
 
+
+* atom
+,NodeJS, ExpressJS, MongoDB 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nahidpavelc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107//)  
 
