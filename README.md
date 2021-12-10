@@ -3,7 +3,7 @@
 
 <!-- About me -->
 # 
-### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='5'>
+### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='15'>
 * #### I'm a Full stack Developer & love to code.🌱
 * #### Build web application with mordern teachnologies like MERN stack.🔭
 * #### Update me with the latest Technology that enhances my knowledge & skill.⚡
