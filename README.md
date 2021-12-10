@@ -3,7 +3,9 @@
 
 <!-- About me -->
 # Nahid Pavel Chowdhury
-### I'm Nahid From Bangladesh, WEB Designer & Developer. I'm learning to be a full-stack Web Developer & really enjoy Learning. I love to learn new languages & frameworks, as well as Build Websites.
+#### I'm a Full stack Developer. I love to code. 🌱
+#### Build web application with mordern teachnologies like MERN stack. 🔭
+#### Love to code.
 
 <!-- Learning part -->
 ## <img src='https://cdn-icons.flaticon.com/png/512/1903/premium/1903172.png?token=exp=1638359903~hmac=2743c01721ee8bc457374f86891c80f0' alt='learning' height='25'> I’m currently learning 
