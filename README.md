@@ -10,11 +10,11 @@
 * Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
 
 <!-- Tools & teachnologies -->
-### Tools & Teach 🚀
+## Tools & Teach 🚀
 #### <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'>  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'>  <img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'>  <img src='https://img.icons8.com/color/2x/mongodb.png' alt='github' height='20'>  <img src='https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg' alt='github' height='20'>  <img src='https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png' alt='github' height='20'>  <img src='https://iconape.com/wp-content/files/er/57916/svg/element-ui-1.svg' alt='github' height='20'>  <img src='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png' alt='github' height='20'>
 
 <!-- Contact me -->
-## <img src='https://cdn-icons-png.flaticon.com/512/736/736110.png' alt='github' height='25'>  Contact me
+## Contact me
 <!-- Social Icon Pe=art -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahidpavelc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)  
 
@@ -22,6 +22,7 @@
   
 
 <!--
+<img src='https://cdn-icons-png.flaticon.com/512/736/736110.png' alt='github' height='25'>  
 **nahidpavelc/nahidpavelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
