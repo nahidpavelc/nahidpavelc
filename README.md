@@ -3,7 +3,7 @@
 
 <!-- About me -->
 # 
-### About me [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif' alt='github' height='25'>]
+### About me <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif' alt='github' height='25'>
 * #### I'm a Full stack Developer & love to code.🌱
 * #### Build web application with mordern teachnologies like MERN stack.🔭
 * #### Update me with the latest Technology that enhances my knowledge & skill.⚡
