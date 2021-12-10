@@ -2,12 +2,12 @@
 ![Fullstack Web Developer.](https://i.ibb.co/HTKNDMx/Your-ptaragrarph-text-3.png)
 
 <!-- About me -->
-# 
+## Hey<img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='18'>,I'm [Nahid](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
 ### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='18'>
 * #### I'm a Full stack Developer & love to code.🌱
-* #### Build web application with mordern teachnologies like MERN stack.🔭
-* #### Update me with the latest Technology that enhances my knowledge & skill.⚡
-* #### Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107//)
+* #### Build web application with mordern teachnologies like MERN stack.💬
+* #### Update me with the latest Technology that enhances my knowledge & skill.🔭
+* #### Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
 * 
 
 <!-- Learning part -->
@@ -23,7 +23,7 @@
 <!-- Contact me -->
 ## <img src='https://cdn-icons-png.flaticon.com/512/736/736110.png' alt='github' height='25'>  Contact me
 <!-- Social Icon Pe=art -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahidpavelc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahidpavelc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)  
 
 
   
