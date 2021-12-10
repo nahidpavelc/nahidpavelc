@@ -5,12 +5,12 @@
 ## Hey <img src='https://github.com/nahidpavelc/Photo/blob/main/git-photo/Hi.gif' alt='github' height='25'>,I'm [Nahid!](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)
 ### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='18'>
 🧑‍💻 I'm a Full stack Developer & love to code & Build web application with mordern teachnologies like MERN stack.🌱
-🧑‍💻 Always try to Update me with the latest Technologies that enhances my knowledge & skill.🚀
+🧑‍💻 Always try to Update me with the latest Technologies that enhances my knowledge & skill.🔭
 
 * Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
 
 <!-- Tools & teachnologies -->
-### Tools & Teach
+### Tools & Teach 🚀
 #### <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'>  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'>  <img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'>  <img src='https://img.icons8.com/color/2x/mongodb.png' alt='github' height='20'>  <img src='https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg' alt='github' height='20'>  <img src='https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png' alt='github' height='20'>  <img src='https://iconape.com/wp-content/files/er/57916/svg/element-ui-1.svg' alt='github' height='20'>  <img src='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png' alt='github' height='20'>
 
 <!-- Contact me -->
