@@ -3,9 +3,10 @@
 
 <!-- About me -->
 # Nahid Pavel Chowdhury
-#### I'm a Full stack Developer. I love to code. 🌱
-#### Build web application with mordern teachnologies like MERN stack. 🔭
-#### Love to code.
+* #### I'm a Full stack Developer. I love to code. 🌱
+* #### Build web application with mordern teachnologies like MERN stack. 🔭
+* #### Love to code.
+* ### Portfolio Here(https://www.linkedin.com/innahid-pavel-chowdhury-066a64107//)
 
 <!-- Learning part -->
 ## <img src='https://cdn-icons.flaticon.com/png/512/1903/premium/1903172.png?token=exp=1638359903~hmac=2743c01721ee8bc457374f86891c80f0' alt='learning' height='25'> I’m currently learning 
