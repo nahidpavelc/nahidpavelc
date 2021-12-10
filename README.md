@@ -4,10 +4,10 @@
 <!-- About me -->
 ## Hey <img src='https://github.com/nahidpavelc/Photo/blob/main/git-photo/Hi.gif' alt='github' height='25'>,I'm [Nahid!](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)
 ### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='18'>
-* ##### I'm a Full stack Developer & love to code.🌱
-* ##### Build web application with mordern teachnologies like MERN stack.💬
-* ##### Update me with the latest Technology that enhances my knowledge & skill.🔭
-* ##### Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
+* I'm a Full stack Developer & love to code.🌱
+* Build web application with mordern teachnologies like MERN stack.💬
+* Update me with the latest Technology that enhances my knowledge & skill.🔭
+* Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
 
 
 <!-- Learning part -->
