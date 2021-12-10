@@ -4,20 +4,14 @@
 <!-- About me -->
 ## Hey <img src='https://github.com/nahidpavelc/Photo/blob/main/git-photo/Hi.gif' alt='github' height='25'>,I'm [Nahid!](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)
 ### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='18'>
-* I'm a Full stack Developer & love to code.🌱
-* Build web application with mordern teachnologies like MERN stack.💬
-* Update me with the latest Technology that enhances my knowledge & skill.🔭
+🧑‍💻 I'm a Full stack Developer & love to code & Build web application with mordern teachnologies like MERN stack.🌱
+🧑‍💻 Always try to Update me with the latest Technologies that enhances my knowledge & skill.🚀
+
 * Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
 
-
-<!-- Learning part -->
-## <img src='https://cdn-icons.flaticon.com/png/512/1903/premium/1903172.png?token=exp=1638359903~hmac=2743c01721ee8bc457374f86891c80f0' alt='learning' height='25'> I’m currently learning 
-* ###  <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> ReactJS
-* ###  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'> NodeJS
-* ###  <img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'> ExpressJS
-* ###  <img src='https://img.icons8.com/color/2x/mongodb.png' alt='github' height='20'> MongoDB
-
-## 
+<!-- Tools & teachnologies -->
+### Tools & Teach
+#### <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'><img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'><img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'><img src='https://img.icons8.com/color/2x/mongodb.png' alt='github' height='20'>
 
 <!-- Contact me -->
 ## <img src='https://cdn-icons-png.flaticon.com/512/736/736110.png' alt='github' height='25'>  Contact me
@@ -41,3 +35,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Learning part 
+## <img src='https://cdn-icons.flaticon.com/png/512/1903/premium/1903172.png?token=exp=1638359903~hmac=2743c01721ee8bc457374f86891c80f0' alt='learning' height='25'> I’m currently learning 
+* ###  <img src='https://cdn-icons-png.flaticon.com/512/1260/1260667.png' alt='github' height='20'> ReactJS
+* ###  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png' alt='github' height='20'> NodeJS
+* ###  <img src='https://cdn-icons-png.flaticon.com/512/3523/3523020.png' alt='github' height='20'> ExpressJS
+* ###  <img src='https://img.icons8.com/color/2x/mongodb.png' alt='github' height='20'> MongoDB
+
+## -->
