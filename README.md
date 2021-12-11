@@ -3,8 +3,8 @@
 
 <!-- About me -->
 ## Hey <img src='https://github.com/nahidpavelc/Photo/blob/main/git-photo/PhotoShowImage_www.flaticon.com_20211211220930.png?raw=true' alt='github' height='25'>, I'm [Nahid!](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)
-### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='18'>
-🧑‍💻 I'm a Full-stack Developer & love to code & Build web applications with modern technologies like the MERN stack.🌱\
+
+🧑‍💻 Full-stack Developer & love to code & Build web applications with modern technologies like the MERN stack.🌱\
 🧑‍💻 Always try to Update me with the latest Technologies that enhance my knowledge & skill.🔭
 
 * Portfolio [Here](https://www.linkedin.com/innahid-pavel-chowdhury-066a64107/)
@@ -24,6 +24,8 @@
 <!--
 <img src='https://cdn-icons-png.flaticon.com/512/736/736110.png' alt='github' height='25'>  
 **nahidpavelc/nahidpavelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### About me <img src='https://cdn-icons-png.flaticon.com/512/725/725105.png' alt='github' height='18'>
 
 Here are some ideas to get you started:
 
