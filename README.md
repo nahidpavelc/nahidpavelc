@@ -7,7 +7,7 @@
 🧑‍💻 Full-stack Developer & love to code & Build web applications with modern technologies like the MERN stack.🌱\
 🧑‍💻 Always try to Update me with the latest Technologies that enhance my knowledge & skill.🔭
 
-* [Portfolio](https://dazzling-wescoff-8bae44.netlify.app/)
+* [Portfolio](https://nahid-pavel-c.netlify.app/)
 
 <!-- Tools & teachnologies -->
 ## Tools & Teach 🚀
