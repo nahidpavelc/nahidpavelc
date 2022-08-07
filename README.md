@@ -7,7 +7,7 @@
 🧑‍💻 Full-stack Developer & love to code & Build web applications with modern technologies like the MERN stack.🌱\
 🧑‍💻 Always try to Update me with the latest Technologies that enhance my knowledge & skill.🔭
 
-<img src='https://cdn-icons-png.flaticon.com/512/560/560216.png' alt='github' height='40'> [Portfolio](https://nahid-pavel-c.netlify.app/)
+<img src='https://cdn-icons-png.flaticon.com/512/560/560216.png' alt='github' height='20'> [Portfolio](https://nahid-pavel-c.netlify.app/)
 
 <!-- Tools & teachnologies -->
 ## Tools & Teach 🚀
