@@ -16,7 +16,7 @@
 <!-- Contact me -->
 ## Contact me
 <!-- Social Icon Pe=art -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahidpavelc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)  
+[<img src='https://cdn-icons-png.flaticon.com/512/536/536452.png' alt='github' height='40'>](https://github.com/nahidpavelc)  [<img src='https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1659849059~hmac=1a217ad8e6631f67ce29f127d0ac6afe' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)  
 
 
   
