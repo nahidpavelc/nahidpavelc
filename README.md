@@ -1,5 +1,5 @@
 <!-- cover Image -->
-![Fullstack Web Developer.]([https://i.ibb.co/1mnwtDY/Your-ptaragraph-text.jpg])
+![Fullstack Web Developer.]([https://i.ibb.co/HTKNDMx/Your-ptaragrarph-text-3.png])
 
 <!-- About me -->
 ## Hey <img src='https://github.com/nahidpavelc/Photo/blob/main/git-photo/PhotoShowImage_www.flaticon.com_20211211220930.png?raw=true' alt='github' height='25'>, I'm [Nahid!](https://www.linkedin.com/in/nahid-pavel-chowdhury-066a64107/)
